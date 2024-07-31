@@ -6,7 +6,8 @@
 - [Approach](#approach)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Results](results)
+- [Results](#results)
+- [Recommendations](#recommendations)
 - [Limitation](#limitation)
 
 ### Project Overview
@@ -79,5 +80,17 @@ Formula to count employees by salary band:
 
 ### Results
 
+![Dash](https://github.com/user-attachments/assets/7b5eaa94-5c16-48bb-a2e4-651552b1a4fe)
+
+
+
+![salary_page](https://github.com/user-attachments/assets/d0c45aff-6194-4f10-86a6-4c9ed772bbe5)
 
 ### Limitation
+Generally, there are two genders in the organization. However, some employees 
+refused to disclose their gender.  “Others”  was assigned to represent this category. This however, does affect the accuracy and reliability of the insights uncovered in this analysis in any sense.
+
+### Recommendations
+- Gender equality is a an healthy organizational culture that will help foster team spirit in employees and promote productivity. Palmoria Group management should create a sustainable payment structure that promotes gender quality.
+- Employee rating should never be based on gender and departments but on certification, years of experience, level of degree, years of study, dedication to work, and productivity.
+- Compliance to with labour law will give the company a good image and prevent legal altercations. $90,000 minimum wage should be implemented across all the regions. This will help the company reduce turn-over rate and boost employee contribution to organizational growth company-wide.
