@@ -79,7 +79,16 @@ Formula to count employees by salary band:
 =COUNTIFS(Table1[Salary],">119999",Table1[Salary],"<=1300000")`
 
 ### Results
-
+- A total 327( 34.79%) employees are paid above $90,000
+- A total of 613  (65.21%) employees are paid below $90,000
+- In Abuja region, despite having equal number of male and female employees (158 each gender), the male employees receive higher net salary by 0.04%, the female employees having the most upper ratings Good and Very Good notwithstanding. The lower rating - Poor and very poor in this region have higher number of male employees.
+- Kaduna Region has the highest number of employees (357) with 38% of the total annual salary.
+- In Kaduna, Services department has equal number of male and female employees (15 each) but males were paid higher. The female employees have higher ratings compared to the male employees. This is repeated in Research and Development Department, and Business Development department. This establishes a consistent bias against female employees in some specific departments in this region. 
+- The Accounting department in Kaduna region is bias against the male employees.The female employee’s total salary higher by 0.04%, the ratings not withstanding.
+- Lagos region is bias against female employees in services department. There are equal number of female and male employees, with the females having higher rates. The bias would mean that the cumulative salary of male employees is greater by 8.7%
+- Palmoria group pays a total salary of $71.45M annually. The salary by region is as: Lagos $19.5M (27%), Abuja $24.8M (35%), Kaduna $27.1M ( 38%).
+- Company-wide, Palmoria Group company has most male employees rated Average, Poor and Very Poor. On the contrary, female employees are rated most Very Good and Good.
+  
 ![Dash](https://github.com/user-attachments/assets/7b5eaa94-5c16-48bb-a2e4-651552b1a4fe)
 
 
